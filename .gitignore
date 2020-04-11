@@ -2,6 +2,7 @@
 *.apk
 *.booproj
 *.csproj
+*.DS_Store
 *.mdb
 *.mdb.meta
 *.opendb
